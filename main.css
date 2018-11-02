@@ -1,8 +1,8 @@
 /* @font-face { font-family: Elegance; src: url('Rounded_Elegance.ttf'); }  */
 /* @font-face { font-family: SoftLine; src: url('SoftLine.otf'); }  */
 /* @font-face { font-family: Telegrafico; src: url('telegrafico.ttf'); } */
-
-/* #about {
+/* 
+#about {
  margin-left: 17%;
 }
 
@@ -54,7 +54,7 @@ html {
 .display-container {
  height: 50%;
  margin-top: 12%;
-}
+} */
 
 /* .header {
  background-color: white;
@@ -67,7 +67,7 @@ html {
  padding: 15px 32px;
  text-align: center;
  text-decoration: none;
-} */
+}
 
 .header:hover {
  opacity: .8;
@@ -171,7 +171,7 @@ textarea:focus, input:focus{
 
 .touch {
  font-family: Elegance, Arial, sans-serif;
-} */
+} 
 
 /* .name {
   text-align: center;
