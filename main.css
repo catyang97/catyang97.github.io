@@ -1,6 +1,6 @@
-@font-face { font-family: Elegance; src: url('Rounded_Elegance.ttf'); } 
-@font-face { font-family: SoftLine; src: url('SoftLine.otf'); } 
-@font-face { font-family: Telegrafico; src: url('telegrafico.ttf'); }
+/* @font-face { font-family: Elegance; src: url('Rounded_Elegance.ttf'); }  */
+/* @font-face { font-family: SoftLine; src: url('SoftLine.otf'); }  */
+/* @font-face { font-family: Telegrafico; src: url('telegrafico.ttf'); } */
 
 #about {
  margin-left: 17%;
@@ -22,7 +22,7 @@ body {
  border-radius: 4px;
  box-sizing: border-box;
  font-size: 15px;
- font-family: SoftLine, Arial, sans-serif;
+ font-family: Arial, sans-serif;
  margin: 5px 0;  
  padding: 3px;
  resize: none;
@@ -45,7 +45,7 @@ body {
 }
 
 html {
- font-family: Elegance, Arial, sans-serif;
+ font-family: Arial, sans-serif;
  font-size: 15px;
  text-align: center;
  background-color: white;
@@ -63,7 +63,7 @@ html {
  cursor: pointer;
  display: inline-block;
  font-size: 100px;
- font-family: Telegrafico, Arial, sans-serif;
+ font-family: Arial, sans-serif;
  padding: 15px 32px;
  text-align: center;
  text-decoration: none;
