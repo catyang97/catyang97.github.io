@@ -1040,6 +1040,7 @@
 			display: inline-block;
 			/* font-family: Elegance, Arial, sans-serif; */
 			font-size: 17px;
+			text-transform: lowercase;
 			padding: 3px 15px;
 			text-align: center;
 			text-decoration: none;
