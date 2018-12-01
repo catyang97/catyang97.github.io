@@ -524,6 +524,7 @@
 		text-decoration: none;
 		position: relative;
 		border-bottom: none;
+		background-image: "infoicon.png";
 	}
 
 		.icon:before {
