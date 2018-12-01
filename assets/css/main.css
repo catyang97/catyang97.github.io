@@ -276,7 +276,7 @@
 
 /* Form */
 
-	form {
+	/* form {
 		margin: 0 0 1.5em 0;
 	}
 
@@ -516,7 +516,7 @@
 	:-ms-input-placeholder {
 		color: #616f77 !important;
 		opacity: 1.0;
-	}
+	} */
 
 /* Icon */
 
@@ -785,7 +785,7 @@
 		}
 
 /* Button */
-
+/* 
 	input[type="submit"],
 	input[type="reset"],
 	input[type="button"],
@@ -873,7 +873,7 @@
 		.button:disabled {
 			pointer-events: none;
 			opacity: 0.5;
-		}
+		} */
 
 /* Main */
 
@@ -1035,7 +1035,7 @@
 		.options {
 			background-color: none;
 			border: none;
-			color: #805858;
+			color: #8A828D;
 			cursor: pointer;
 			display: inline-block;
 			font-family: Elegance, Arial, sans-serif;
@@ -1047,7 +1047,7 @@
 		  }
 		  
 		  .options:hover {
-			color: #A64032;
+			color: #A18790;
 			transform: translateY(-2.5px);
 			transition: all .3s ease;
 		  }
