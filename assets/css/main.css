@@ -738,6 +738,7 @@
 				text-align: center;
 				text-indent: 3.75em;
 				white-space: nowrap;
+				background-image: "infoicon.png";
 			}
 
 				ul.icons li a:before {
