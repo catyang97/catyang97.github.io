@@ -487,12 +487,12 @@
 			color: #8A828D;
 			cursor: pointer;
 			display: inline-block;
-			/* font-family: Elegance, Arial, sans-serif; */
 			font-size: 17px;
 			text-transform: lowercase;
-			padding: 3px 15px;
+			padding: 3px 10px;
 			text-align: center;
 			text-decoration: none;
+			white-space: nowrap;
 			width: 12.5%;
 		  }
 		  
