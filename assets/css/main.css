@@ -255,14 +255,14 @@
 	#dmd {
 		background-color: none;
 		border: none;
-		color: #8A828D;
+		color: #9BC6D5;
 		text-decoration: none;
 	}
 
 	#dmd:hover {
 		background-color: none;
 		border: none;
-		color: #A18790;
+		color: #718FA0;
 		opacity: .8;
 		text-decoration: none;
 	  }
