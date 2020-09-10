@@ -365,20 +365,11 @@
 				opacity: 0;
 			}
 
-			@import url('https://fonts.googleapis.com/css?family=Barlow:400,500,700');
 
-			body {
-				font-family: 'Barlow', sans-serif;
-				font-size: 1.125rem;
-				line-height: 1.5;
-				color: #787878;
-				background: #fff;
-				text-rendering: optimizeLegibility;
-		   }
-			ul li {
+			/* ul li {
 				margin: 0 1.5rem 0 0;
 		   
-		   }
+		   } */
 			nav {
 				padding: 2.5rem 0 2.5rem 0;
 		   }
@@ -408,15 +399,7 @@
 			.img-container:hover .img-content-hover {
 				display: block;
 		   }
-			img {
-				width: 100%;
-				height: 500px;
-				transform: scale(1);
-				transition: all 0.3s ease-in-out;
-		   }
-			img:hover {
-				transform: scale(1.05);
-		   }
+
 			.img-content-hover {
 				z-index: 1;
 				position: absolute;
@@ -442,18 +425,8 @@
 			.img-content {
 				display: none;
 		   }
-			.social, .copyright {
-				margin: 1rem;
-		   }
-			.social li {
-				display: inline-block;
-		   }
-			footer {
-				padding: 1rem 0;
-				background: #f7f7f7;
-				text-align: center;
-		   
-		   }
+
+
 			@media screen and (max-width: 1024px) {
 				img:hover {
 					transform: none;
@@ -469,6 +442,7 @@
 					padding: 1rem 0;
 			   }
 		   }
+
 			
 	
 
