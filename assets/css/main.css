@@ -67,7 +67,7 @@
 		background-attachment: fixed,			fixed,				fixed;
 	}
 
-		/* body:after {
+		body:after {
 			content: '';
 			display: block;
 			position: fixed;
@@ -94,7 +94,7 @@
 
 		body.is-preload:after {
 			opacity: 1;
-		} */
+		}
 
 /* Type */
 
