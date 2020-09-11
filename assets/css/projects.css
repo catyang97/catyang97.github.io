@@ -5,20 +5,28 @@ body {
 }
   
   h1 {
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     text-align: center;
     font-weight: bold;
+    color: rgb(75, 75, 75);
   }
   
   h2 {
-    font-family: "Source Sans Pro", Helvetica, sans-serif;
+    font-family: Helvetica, sans-serif;
     text-align: center;
     font-weight: bold;
+    color: rgb(75, 75, 75);
   }
 
   h3 {
     font-family: "Source Sans Pro", Helvetica, sans-serif;
     text-align: center;
+  }
+
+  hr {
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #efe7c2;
   }
 
   .row {
