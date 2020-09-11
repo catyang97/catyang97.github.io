@@ -23,12 +23,6 @@ body {
     text-align: center;
   }
 
-  hr {
-    max-width: 50px;
-    border-width: 3px;
-    border-color: #efe7c2;
-  }
-
   .row {
     display: flex;
     flex-wrap: wrap;
@@ -54,6 +48,13 @@ body {
     width: 100%;
     height: auto;
   }
+
+  .image2 {
+    display: block;
+    width: 160%;
+    height: auto;
+  }
+
   .overlay {
     position: absolute;
     top: 0;
